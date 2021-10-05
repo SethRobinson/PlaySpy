@@ -3,7 +3,7 @@ A hardware adapter that lets you monitor your kids gaming audio on the Switch, e
 
 Sometimes you just need to be able to tune in to what's going on in a multiplayer game to protect your younger kids.  However, when using a headset+mic with the Switch, there is no way to also enable external sound at the same time.
 
-Previously, I [explained how you could do it](https://www.codedojo.com/?p=2470) using a 3.5mm TRRS splitter, then splitting off just the stereo part (sans mic) to listen to.  However, it's REALLY HARD to find the correct version of that cable (the only one I could find is $10) and it's kind of messy to use anyway as it needs an additional adapter and can be confusing to use.
+Previously, I [explained how you could do it](https://www.codedojo.com/?p=2470) using a 3.5mm TRRS splitter, then splitting off just the stereo part (sans mic) to listen to.  However, it's REALLY HARD to find the correct version of that cable (the only one I could find is $10) and it's kind of confusing and messy to use anyway.
 
 ![Pic](media/PlaySpy.png)
 
