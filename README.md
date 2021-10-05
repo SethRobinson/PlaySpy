@@ -1,5 +1,5 @@
 # PlaySpy
-A hardware adapter that lets you monitor your kids gaming audio on the Switch, even while they are chatting with the mic.
+A hardware adapter that lets you monitor your kids' gaming audio on the Switch, even while they are chatting with the mic.
 
 Sometimes you just need to be able to tune in to what's going on in a multiplayer game to protect your younger kids.  However, when using a headset+mic with the Switch, there is no way to also enable external sound at the same time.
 
